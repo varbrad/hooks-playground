@@ -7,6 +7,8 @@ import {
 } from 'react-beautiful-dnd'
 import Item from './components/Item'
 
+// https://codesandbox.io/s/ql08j35j3q
+
 const getItems = count =>
   [...Array(count).keys()].map(k => ({
     id: `item-${k}`,
