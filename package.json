@@ -1,7 +1,7 @@
 {
-  "name": "parcel-sandbox",
+  "name": "hooks-playground",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "Simple Parcel Sandbox for playing with React Hooks",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
